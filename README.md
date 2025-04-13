@@ -119,3 +119,12 @@ Após o período de respostas:
 
 ## 📁 Estrutura dos Arquivos do Projeto
 
+## Como Executar
+
+Para visualizar os gráficos:
+
+1. Acesse o [Google Colab](https://colab.research.google.com)
+2. Faça o upload do arquivo analise-dados.ipynb
+3. Execute cada célula com Shift + Enter
+
+---
