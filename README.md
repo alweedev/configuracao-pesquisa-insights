@@ -140,6 +140,6 @@ A partir da análise:
 
 Caso queira trocar ideias ou colaborar:
 [Alejandro] – [alejandro_gabriel12@hotmail.com]  
-[Seu LinkedIn](https://linkedin.com/in/alejandro-gabriel)
+[Linkedin] - (https://linkedin.com/in/alejandro-gabriel)
 
 ---
